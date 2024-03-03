@@ -1,4 +1,4 @@
-# Adobe SVG Beautifier
+# Adobe Illustrator SVG Beautifier
 
 This is a simple script that allows you to quickly edit your created SVG icons in Adobe Illustrator to conveniently insert them into your website.
 
